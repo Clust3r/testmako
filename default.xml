@@ -379,5 +379,5 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/lge" name="android_vendor_lge" remote="rascarlo" revision="jb-ras-mr2.0" />
-  <project path="vendor/clustyrom" name="android_vendor_clustyrom" remote="clustyrom" revision="sm-jb-mr2"/>
+  <project path="vendor/clustyrom" name="android_vendor_clustyrom" remote="clustyrom" revision="master"/>
 </manifest>
